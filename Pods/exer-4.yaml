@@ -8,8 +8,8 @@ spec:
     - name: nginx
       image: nginx
       ports: 
-        - containerport: 80
+        - containerPort: 80
     - name: httpd
       image: httpd
       ports: 
-        - containerport: 80    
+        - containerPort: 80    
